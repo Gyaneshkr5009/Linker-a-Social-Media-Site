@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="375" height="375" viewBox="0 0 375 375">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1593.75H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1593.75H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 150H1562.5V1412.5H0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M260.23088 748.0007 308.53724 697.8335 501.63349 883.7673 453.32716 933.93447 260.23088 748.0007Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1593.75H0Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 150H1562.5V1412.5H0Z"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M303.76768 944.7581 253.25147 896.8169 377.45347 765.94387 427.96968 813.88516 303.76768 944.7581Z"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1593.75H0Z"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 150H1562.5V1412.5H0Z"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M310.7201 796.4908 260.2039 748.54959 384.40589 617.6765 434.9221 665.6178 310.7201 796.4908Z"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1593.75H0Z"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 150H1562.5V1412.5H0Z"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M431.4187 803.45718 380.9025 755.5159 451.0876 681.5611 501.6038 729.5023 431.4187 803.45718Z"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 150H1562.5V1412.5H0Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H500V500H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<path transform="matrix(.045287204,-.04703174,.04703174,.045287204,62.455408,179.52016)" d="M0 0H256V985H0Z" fill="#22263e"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_4)">
+<g clip-path="url(#clip_5)">
+<g clip-path="url(#clip_6)">
+<path transform="matrix(-.04735895,-.044944914,.044944914,-.04735895,72.904239,226.74195)" d="M0 0H256V663H0Z" fill="#22263e"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_7)">
+<g clip-path="url(#clip_8)">
+<g clip-path="url(#clip_9)">
+<path transform="matrix(-.04735895,-.044944914,.044944914,-.04735895,74.57282,191.15779)" d="M0 0H256V663H0Z" fill="#22263e"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_10)">
+<g clip-path="url(#clip_11)">
+<g clip-path="url(#clip_12)">
+<path transform="matrix(-.04735895,-.044944914,.044944914,-.04735895,103.54049,192.82971)" d="M0 0H256V375H0Z" fill="#970c10"/>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_13)">
+<text fill="#22263e" fill-opacity=".4" xml:space="preserve" transform="matrix(.9359277 0 0 .9359277 137.18444 161.80208)" font-size="47.33" font-family="LeagueSpartan" font-weight="bold"><tspan y="46" x="0 26.740448 41.03357 72.317539 102.89157 131.4305">Linker</tspan></text>
+<text fill="#22263e" xml:space="preserve" transform="matrix(.9359277 0 0 .9359277 135.22661 159.84426)" font-size="47.33" font-family="LeagueSpartan" font-weight="bold"><tspan y="46" x="0 26.740448 41.03357 72.317539 102.89157 131.4305">Linker</tspan></text>
+<text fill="#970c10" fill-opacity=".4" xml:space="preserve" transform="matrix(.62310048 0 0 .62310048 138.95691 207.17852)" font-size="13.41" font-family="HelveticaWorld"><tspan y="13" x="0 12.10923 24.951615 37.16558 49.379549 60.506875 72.616107 83.17393 88.86151 100.0543 105.74188 117.85111 129.83597 140.96329 152.31974 162.87757">CONNECT &#x0026; CREATE</tspan></text>
+<text fill="#970c10" xml:space="preserve" transform="matrix(.62310048 0 0 .62310048 138.58751 206.80913)" font-size="13.41" font-family="HelveticaWorld"><tspan y="13" x="0 12.10923 24.951615 37.16558 49.379549 60.506875 72.616107 83.17393 88.86151 100.0543 105.74188 117.85111 129.83597 140.96329 152.31974 162.87757">CONNECT &#x0026; CREATE</tspan></text>
+</g>
+</svg>
